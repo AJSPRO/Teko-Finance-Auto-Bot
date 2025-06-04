@@ -1,3 +1,14 @@
+☕ Wanna Buy Me a Coffee?
+
+If you'd like to support this little project, feel free to drop a coffee donation:
+
+EVM Wallet: 0xa7C078f4174C0f8cfa8444e5141f8217F60CEe18
+
+Solana Wallet: H2k5pM1xq6N7YjSfTEyhpdezcN5UX8y4mnB9yn9nDFAG
+
+
+Thank you! 
+
 🚰 Teko Mint Faucet - MegaETH Testnet Bot
 
 A simple and automated bot to mint testnet tokens from faucet contracts on the **MegaETH** network.  
@@ -61,14 +72,3 @@ Using Ethers v6+ may require changes to the syntax.
 
 Leave it running in Termux, VPS, or desktop.
 It'll mint tokens nonstop on MegaETH using all your wallets.
-
-☕ Wanna Buy Me a Coffee?
-
-If you'd like to support this little project, feel free to drop a coffee donation:
-
-EVM Wallet: 0xa7C078f4174C0f8cfa8444e5141f8217F60CEe18
-
-Solana Wallet: H2k5pM1xq6N7YjSfTEyhpdezcN5UX8y4mnB9yn9nDFAG
-
-
-Thank you! ❤️
